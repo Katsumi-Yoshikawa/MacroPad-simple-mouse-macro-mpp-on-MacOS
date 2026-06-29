@@ -27,7 +27,7 @@ runs entirely on the local Mac.
 
 ## Requirements
 
-- macOS 12 Monterey or later
+- macOS 12 Monterey or later (not tested on Apple silicon yet)
 - Xcode Command Line Tools with Swift 5.7 or later (https://developer.apple.com/support/xcode)
 
 MacroPad has no third-party package dependencies.
