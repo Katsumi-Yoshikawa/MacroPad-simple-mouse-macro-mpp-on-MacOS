@@ -8,7 +8,8 @@ MacroPad is a native macOS utility for recording, editing, saving, triggering,
 and replaying keyboard and mouse macros. It is built with SwiftUI and AppKit and
 runs entirely on the local Mac. 
 
-> I built it for the Single-Button Assistant (SBA) in World of Warcraft (WOW) retail server. I've tried to press and hold a hotkey to continuously activate SBA, but it's challenging for me while moving my melee characters around during a combat. I also worked with Mouse Macro software compatible with my mouse on Windows, in which I press a button of mouse to activate SBA and keep it functioning until I press it another time to stop, but none of them work properly on MacOS (esp. MacOS 12 Monterey which I'm still working with). I've tried several other Apps, incl. Keyboard Masstro, BetterTouchTool, but they are too complicated only for WOW SBA. With MacroPad, I set 8 on keyboard as a hotkey for SBA and mouse button 3 as the trigger to active/stop the Macro (in Toggle Loop mode), in which it press the button 8 every 250-450ms, to keep SBA working.
+> I've tried to press and hold a hotkey to continuously activate SBA, but it was challenging for me while moving my melee characters around during a combat. I've also tried Mouse Macro softwares, incl. Razer Synapse and Logitech G-Hub, only compatible with their mice on Windows. With the sfotwares I can use toggle loop to start/stop macro (automatically press keys for SBA while not hold it). They are good but none of them work properly on MacOS (esp. MacOS 12 Monterey which I'm still working with). In addition, I've tried several other Apps, incl. Keyboard Masstro, BetterTouchTool, but they are too complicated only for WOW SBA. 
+> Watch the demo how MacroPad works for Single-Button Assistant in World of Warcraft: https://youtu.be/bSpDPEKcC54
 
 ## Features
 
