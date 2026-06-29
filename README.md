@@ -1,4 +1,4 @@
-# MacroPad
+# MacroPad | simple Mouse Macro App on MacOS
 
 [简体中文](README.zh-CN.md)
 
